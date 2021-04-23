@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 260px;
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 20px;
+    /* display: flex; */
+    /* justify-content: center; */
+    background-color: #efefef;
+}
+
+h1 {
+    display: block;
+    border-bottom: 1px solid black;
+}
+
+h3 {
+    padding-bottom: 10px;
+}
+
+
+.div {
+    padding: 10px 0px;
+}
+
+#comment_section label {
+    display: block;
+    padding-bottom: 5px;
+}
+
+#your_name {
+    padding-top: 10px;
+}
